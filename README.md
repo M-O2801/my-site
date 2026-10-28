@@ -9,3 +9,4 @@ Git・GitHub基礎の練習で作った、自己紹介のサイトです。
 
 - HTML
 - CSS
+- git
